@@ -50,6 +50,8 @@ public class ProductsSteps {
 		System.out.println("pass");
 	}
 
-
+public void scrollbar() {
+	System.out.println("search bar");
+}
 
 }
